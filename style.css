@@ -73,7 +73,7 @@ section.imagem>p{
 
 section#img01{
     background-image: url(imagens/flores.jpg);
-    background-position: right center;
+    background-position: right right;
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: inset 6px 6px 13px 0px solid;
